@@ -14,3 +14,7 @@ Go to `app/module/sample/application/command` directory to show commands source 
 Execute command in the terminal:
 
     python console.py
+
+## Copyrights
+
+Copyright (c) Rafał Mikołajun 2023.
